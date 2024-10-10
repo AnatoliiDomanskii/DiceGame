@@ -100,6 +100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7584ba7cefbfd984181bc86fd51c26cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Applied: 0
 --- !u!1001 &1225774839695068507
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -112,10 +113,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Edge (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 1468680728224417480, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
+    - target: {fileID: 3157594634571681946, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     - target: {fileID: 3879418244403892013, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -182,6 +183,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Edge
       objectReference: {fileID: 0}
+    - target: {fileID: 3157594634571681946, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     - target: {fileID: 3879418244403892013, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -248,10 +253,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Edge (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 1468680728224417480, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
+    - target: {fileID: 3157594634571681946, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     - target: {fileID: 3879418244403892013, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -318,10 +323,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Edge (3)
       objectReference: {fileID: 0}
-    - target: {fileID: 1468680728224417480, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
+    - target: {fileID: 3157594634571681946, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     - target: {fileID: 3879418244403892013, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -388,10 +393,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Edge (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 1468680728224417480, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
+    - target: {fileID: 3157594634571681946, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     - target: {fileID: 3879418244403892013, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -458,10 +463,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Edge (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 1468680728224417480, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
+    - target: {fileID: 3157594634571681946, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     - target: {fileID: 3879418244403892013, guid: 551097e1a1ab2ec45938b5da261e1f57, type: 3}
       propertyPath: m_RootOrder
       value: -1
